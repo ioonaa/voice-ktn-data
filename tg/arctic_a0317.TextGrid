@@ -1,0 +1,68 @@
+"Praat chronological TextGrid text file"
+0 4.68   ! Time domain.
+1   ! Number of tiers.
+"IntervalTier" "MAU" 0 4.68
+
+! MAU:
+1 0 0.81
+"<p:>"
+
+! MAU:
+1 0.81 0.9
+"h"
+
+! MAU:
+1 0.9 0.95
+"i:"
+
+! MAU:
+1 0.95 1.03
+"w"
+
+! MAU:
+1 1.03 1.06
+"Q"
+
+! MAU:
+1 1.06 1.12
+"z"
+
+! MAU:
+1 1.12 1.19
+"V"
+
+! MAU:
+1 1.19 1.34
+"w"
+
+! MAU:
+1 1.34 1.55
+"aI"
+
+! MAU:
+1 1.55 1.61
+"z"
+
+! MAU:
+1 1.61 1.65
+"h"
+
+! MAU:
+1 1.65 1.7
+"aI"
+
+! MAU:
+1 1.7 1.88
+"i:"
+
+! MAU:
+1 1.88 1.92
+"n"
+
+! MAU:
+1 1.92 2.03
+"V"
+
+! MAU:
+1 2.03 4.68
+"<p:>"
