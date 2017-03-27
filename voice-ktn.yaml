@@ -2591,18 +2591,6 @@ stimuli:
    end: 3923.6639999999998
 
 
- - label: arctic_a0438
-   text: At sea, Monday, March 16, 1908.
-   start: 3923.904
-   end: 3930.6479999999997
-
-
- - label: arctic_a0439
-   text: At sea, Wednesday, March 18, 1908.
-   start: 3930.888
-   end: 3937.6479999999997
-
-
  - label: arctic_a0440
    text: Yes, sir, I corrected.
    start: 3937.888

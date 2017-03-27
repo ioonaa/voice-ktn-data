@@ -3499,7 +3499,7 @@ item []:
         intervals [872]:
             xmin = 3923.904 
             xmax = 3930.6479999999997 
-            text = "arctic_a0438" 
+            text = "x" 
         intervals [873]:
             xmin = 3930.6479999999997 
             xmax = 3930.888 
@@ -3507,7 +3507,7 @@ item []:
         intervals [874]:
             xmin = 3930.888 
             xmax = 3937.6479999999997 
-            text = "arctic_a0439" 
+            text = "x" 
         intervals [875]:
             xmin = 3937.6479999999997 
             xmax = 3937.888 
@@ -8461,7 +8461,7 @@ item []:
         intervals [872]:
             xmin = 3923.904 
             xmax = 3930.6479999999997 
-            text = "At sea, Monday, March 16, 1908." 
+            text = "x" 
         intervals [873]:
             xmin = 3930.6479999999997 
             xmax = 3930.888 
@@ -8469,7 +8469,7 @@ item []:
         intervals [874]:
             xmin = 3930.888 
             xmax = 3937.6479999999997 
-            text = "At sea, Wednesday, March 18, 1908." 
+            text = "x" 
         intervals [875]:
             xmin = 3937.6479999999997 
             xmax = 3937.888 
@@ -9935,7 +9935,7 @@ item []:
         name = "comments" 
         xmin = 0 
         xmax = 5581 
-        intervals: size = 20 
+        intervals: size = 24 
         intervals [1]:
             xmin = 0 
             xmax = 133.9279999999998 
@@ -9978,41 +9978,57 @@ item []:
             text = "arctic_a0350" 
         intervals [11]:
             xmin = 3166.528 
-            xmax = 4468.320000000001 
+            xmax = 3923.904 
             text = "" 
         intervals [12]:
+            xmin = 3923.904 
+            xmax = 3930.6479999999997 
+            text = "arctic_a0438 (MAUS errror)" 
+        intervals [13]:
+            xmin = 3930.6479999999997 
+            xmax = 3930.888 
+            text = "" 
+        intervals [14]:
+            xmin = 3930.888 
+            xmax = 3937.6479999999997 
+            text = "arctic_a0439 (MAUS error)" 
+        intervals [15]:
+            xmin = 3937.6479999999997 
+            xmax = 4468.320000000001 
+            text = "" 
+        intervals [16]:
             xmin = 4468.320000000001 
             xmax = 4475.136 
             text = "arctic_a0505" 
-        intervals [13]:
+        intervals [17]:
             xmin = 4475.136 
             xmax = 4525.168000000001 
             text = "" 
-        intervals [14]:
+        intervals [18]:
             xmin = 4525.168000000001 
             xmax = 4531.984 
             text = "arctic_a0510" 
-        intervals [15]:
+        intervals [19]:
             xmin = 4531.984 
             xmax = 4943.448 
             text = "" 
-        intervals [16]:
+        intervals [20]:
             xmin = 4943.448 
             xmax = 4948.112 
             text = "arctic_a0554" 
-        intervals [17]:
+        intervals [21]:
             xmin = 4948.112 
             xmax = 5333.280000000001 
             text = "" 
-        intervals [18]:
+        intervals [22]:
             xmin = 5333.280000000001 
             xmax = 5341.144 
             text = "arctic_b0004" 
-        intervals [19]:
+        intervals [23]:
             xmin = 5341.144 
             xmax = 5578.971126164982 
             text = "" 
-        intervals [20]:
+        intervals [24]:
             xmin = 5578.971126164982 
             xmax = 5581 
             text = "" 
