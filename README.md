@@ -1,6 +1,6 @@
-# voice-ktn-data
+# Voice KTN Data
 
-Canadian English speech database to build a [MaryTTS](http://mary.dfki.de/) voice. The database contains 612 sentences from the [Festvox CMU_ARCTIC](http://festvox.org/cmu_arctic/cmuarctic.data) prompt list. It was recorded in 2017 at Saarland University by ktn.
+Canadian English speech database to build a [MaryTTS](http://mary.dfki.de/) voice. The database contains 612 sentences from the [Festvox CMU_ARCTIC](http://festvox.org/cmu_arctic/cmuarctic.data) prompt list. It was recorded in 2017 at Saarland University by KTN.
 
 ## Components
 
@@ -8,7 +8,7 @@ The audio data is released as a 48 kHz / 16 bit [FLAC](https://xiph.org/flac/) f
 
 The text data is provided threefold:
 
-- a chronological [Praat](http://www.fon.hum.uva.nl/praat/) TextGrid, which contains three tiers:
+- a chronological [Praat](http://www.fon.hum.uva.nl/praat/) TextGrid for the entire recording, which contains three tiers:
     - **labels-tier**: CMU_ARCTIC prompt labels, e.g.:
         - arctic_a0001
     - **sentences-tier**: CMU_ARCTIC prompt sentences, e.g.:
@@ -23,9 +23,11 @@ The text data is provided threefold:
     - **name**: CMU_ARCTIC prompt label
     - **content**: CMU_ARCTIC prompt sentence in SAMPA phonetic transcription as force aligend by [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSMultiple)
 
-## Voicebuilding
+## Building the Voice
 
-To build the voice see [voice-ktn-build](http://github.com/ravehe/voice-ktn-build).
+To build the voice see the [voice-ktn-build](http://github.com/ravehe/voice-ktn-build) repository.
+
+One possibility to further improve the quality of the voice is to manually correct the chronological [Praat](http://www.fon.hum.uva.nl/praat/) TextGrids for each CMU_ARCTIC prompt in the database.  
 
 ## License
 
