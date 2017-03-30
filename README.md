@@ -1,6 +1,6 @@
 # Voice KTN Data
 
-Canadian English speech database to build a [MaryTTS](http://mary.dfki.de/) voice. The database contains 612 sentences from the [Festvox CMU_ARCTIC](http://festvox.org/cmu_arctic/cmuarctic.data) prompt list. It was recorded in 2017 at Saarland University by KTN.
+Canadian English speech database to build a [MaryTTS](http://mary.dfki.de/) voice. The database contains 612 sentences from the [Festvox CMU_ARCTIC](http://festvox.org/cmu_arctic/cmuarctic.data) prompt list. It was recorded in March 2017 at Saarland University by KTN.
 
 ## Components
 
